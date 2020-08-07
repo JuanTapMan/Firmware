@@ -1,0 +1,3 @@
+Keyboard: xelus/snap96
+Layout: Layout_All
+Keymap Name: function_v1
